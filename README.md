@@ -60,12 +60,15 @@ The notebook includes plots and metrics to demonstrate the performance of the tr
 
 If you use this code in your research, please cite our paper once it is published.
 
-<!-- ```bibtex
-@article{author2024online,
-  title={Online Event-Triggered Switching for Frequency Control in Power Grids with Variable Inertia},
-  author={Your Name and Co-authors},
-  journal={Transactions on Power Systems},
-  year={2024}
+<-- ```bibtex
+@misc{feng2024onlineeventtriggeredswitchingfrequency,
+      title={Online Event-Triggered Switching for Frequency Control in Power Grids with Variable Inertia}, 
+      author={Jie Feng and Wenqi Cui and Jorge Cortés and Yuanyuan Shi},
+      year={2024},
+      eprint={2408.15436},
+      archivePrefix={arXiv},
+      primaryClass={eess.SY},
+      url={https://arxiv.org/abs/2408.15436}, 
 }
 ``` -->
 
