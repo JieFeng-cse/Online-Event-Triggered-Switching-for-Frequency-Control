@@ -18,7 +18,9 @@ To run the code in this repository, you will need the following libraries:
 
 - `matplotlib`
 - `numpy`
-- `tensorflow`
+- `tensorflow==2.13.1`
+- `keras==2.13.1`
+- `tensorflow-gpu==2.4.0`
 - `networkx`
 - `scipy`
 - `mat4py`
